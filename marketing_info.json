@@ -1,0 +1,38 @@
+{
+  "version": "1.0",
+  "name": "Inline Fee Share",
+  "symbol": "INFS",
+  "website": "https://t.me/Axiome_Staking_bot",
+  "description": {
+    "format": "markdown",
+    "image_url": "https://raw.githubusercontent.com/InlineDev/inline-fee-share/main/2026-02-27%2021.33.48.jpg",
+    "video_url": null,
+    "content": [
+      {
+        "language": "ru",
+        "text": "## Inline Fee Share (INFS)\n\n**INFS** — токен фиксированной эмиссии, который представляет долю участия в **50% комиссии валидатора Delegate Node**.\n\n### Как работает\n- Валидатор получает комиссию.\n- **50% комиссии** резервируется для распределения держателям **INFS**.\n- Выплаты распределяются **пропорционально доле**: `баланс INFS / общий supply INFS`.\n\n### Параметры токена\n- Эмиссия: **1 000 000 INFS** (фиксированная)\n- Mint: **отключён** (допэмиссии нет)\n\n> INFS не является обещанием фиксированной доходности. Выплаты зависят от фактической комиссии валидатора и правил распределения."
+      },
+      {
+        "language": "en",
+        "text": "## Inline Fee Share (INFS)\n\n**INFS** is a fixed-supply token representing participation in **50% of the validator commission earned by Delegate Node**.\n\n### How it works\n- The validator earns commission.\n- **50% of commission** is reserved for distribution to **INFS** holders.\n- Rewards are distributed **proportionally**: `INFS balance / total INFS supply`.\n\n### Token parameters\n- Total supply: **1,000,000 INFS** (fixed)\n- Mint: **disabled** (no additional issuance)\n\n> INFS does not guarantee a fixed yield. Distributions depend on actual validator commission and distribution rules."
+      },
+      {
+        "language": "tr",
+        "text": "## Inline Fee Share (INFS)\n\n**INFS**, **Delegate Node** doğrulayıcısının kazandığı doğrulayıcı komisyonunun **%50’sine** katılımı temsil eden sabit arzlı bir tokendir.\n\n### Nasıl çalışır\n- Doğrulayıcı komisyon kazanır.\n- Komisyonun **%50’si**, **INFS** sahiplerine dağıtım için ayrılır.\n- Ödüller **orantılı** dağıtılır: `INFS bakiyesi / toplam INFS arzı`.\n\n### Token özellikleri\n- Toplam arz: **1.000.000 INFS** (sabit)\n- Mint: **kapalı** (ek basım yok)\n\n> INFS sabit getiri garantisi vermez. Dağıtımlar, doğrulayıcı komisyonuna ve dağıtım kurallarına bağlıdır."
+      }
+    ]
+  },
+  "socials": {
+    "Telegram": "https://t.me/inlline",
+    "GitHub": "https://github.com/InlineDev/inline-fee-share"
+  },
+  "legal": {
+    "terms_url": null,
+    "privacy_url": null
+  },
+  "audit": null,
+  "contacts": {
+    "email": null,
+    "support_url": null
+  }
+}
